@@ -34,4 +34,4 @@ University Hospital, Zurich, Switzerland: William Steinbrunn, M.D.
 University Hospital, Basel, Switzerland: Matthias Pfisterer, M.D.
 V.A. Medical Center, Long Beach and Cleveland Clinic Foundation: Robert Detrano, M.D., Ph.D.
 
-## Use https://nbviewer.jupyter.org/ to open
+### Use https://nbviewer.jupyter.org/ to open
